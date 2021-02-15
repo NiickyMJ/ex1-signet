@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Signets.scss"],"names":[],"mappings":"AAAA,IACI,YAAa,CACb,WAAY","file":"main.5f44d522.chunk.css","sourcesContent":["img {\r\n    height: 150px;\r\n    width: 200px;\r\n}"]}
